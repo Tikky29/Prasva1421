@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prasva1421
+- 👋 Hi, I’m @Tikky29
 - 👀 I’m interested in Cyber Security and Ethical Hacking
 - 🌱 I’m currently learning Bug Bounty Hunting and Penetration Testing
 - 💞️ I’m looking to collaborate on Security Research, CTF Challenges, and Automation Tools
